@@ -1,7 +1,14 @@
 # A Sons of the forest internal C++ cheat
 
-## Different
-[Fixed the code](https://github.com/SpookySec/SonsOfTheForestInternal)
+## Update 2023.11.09
+[This item has been repaired since](https://github.com/SpookySec/SonsOfTheForestInternal)
+
+1.Fixed a compilation error
+
+2.The image is memorized to ensure that it crashes due to different computer paths
+
+3.Fixed a change in the game structure causing it to not draw correctly
+
 
 ## Features
 Current features are as seen in `config.h`:
