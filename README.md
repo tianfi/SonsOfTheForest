@@ -1,5 +1,8 @@
 # A Sons of the forest internal C++ cheat
 
+## Different
+[Fixed the code](https://github.com/SpookySec/SonsOfTheForestInternal)
+
 ## Features
 Current features are as seen in `config.h`:
 
